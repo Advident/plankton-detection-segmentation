@@ -1,0 +1,23 @@
+{
+  "seed": 42,
+  "n_source_files": 189,
+  "n_original_files": 168,
+  "n_derived_files": 21,
+  "n_experiment_images": 8,
+  "device": "cuda",
+  "max_side": 1280,
+  "confidence_threshold": 0.1,
+  "max_detections": 20,
+  "yolo_weights": "yolo11n.pt",
+  "faster_rcnn_weights": "FasterRCNN_ResNet50_FPN_V2_Weights.DEFAULT",
+  "sam_weights": "facebook/sam2.1-hiera-tiny",
+  "augmentations": [
+    "original",
+    "brightness_1.2",
+    "contrast_0.7",
+    "noise_10",
+    "blur_1",
+    "flip"
+  ],
+  "pytorch_version": "2.11.0+cu128"
+}

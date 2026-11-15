@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+data/raw/
+datasets/
+__pycache__/
+.venv/
+.env
+*.rar

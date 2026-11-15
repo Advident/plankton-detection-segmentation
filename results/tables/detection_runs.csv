@@ -1,0 +1,97 @@
+image_id,model,augmentation,group,seconds,n_detections
+20250213135317232.jpg,YOLO,original,original,0.010690299997804686,4
+20250213135317232.jpg,Faster R-CNN,original,original,0.03179499999896507,3
+20250213135317232.jpg,YOLO,brightness_1.2,augmented,0.011784000002080575,4
+20250213135317232.jpg,Faster R-CNN,brightness_1.2,augmented,0.030839300001389347,3
+20250213135317232.jpg,YOLO,contrast_0.7,augmented,0.011223000001336914,2
+20250213135317232.jpg,Faster R-CNN,contrast_0.7,augmented,0.02992430000085733,4
+20250213135317232.jpg,YOLO,noise_10,augmented,0.010666899997886503,9
+20250213135317232.jpg,Faster R-CNN,noise_10,augmented,0.031209400000079768,10
+20250213135317232.jpg,YOLO,blur_1,augmented,0.012117300000682008,5
+20250213135317232.jpg,Faster R-CNN,blur_1,augmented,0.030285799999546725,3
+20250213135317232.jpg,YOLO,flip,augmented,0.011877099997946061,6
+20250213135317232.jpg,Faster R-CNN,flip,augmented,0.030770099998335354,3
+20250213135713622.jpg,YOLO,original,original,0.010802199998579454,0
+20250213135713622.jpg,Faster R-CNN,original,original,0.034106499999325024,15
+20250213135713622.jpg,YOLO,brightness_1.2,augmented,0.011607099997490877,1
+20250213135713622.jpg,Faster R-CNN,brightness_1.2,augmented,0.029855299999326235,9
+20250213135713622.jpg,YOLO,contrast_0.7,augmented,0.01962429999912274,1
+20250213135713622.jpg,Faster R-CNN,contrast_0.7,augmented,0.03192800000033458,10
+20250213135713622.jpg,YOLO,noise_10,augmented,0.011386500002117828,0
+20250213135713622.jpg,Faster R-CNN,noise_10,augmented,0.03114339999956428,12
+20250213135713622.jpg,YOLO,blur_1,augmented,0.010849700000107987,0
+20250213135713622.jpg,Faster R-CNN,blur_1,augmented,0.030972399999882327,14
+20250213135713622.jpg,YOLO,flip,augmented,0.012391000000206986,1
+20250213135713622.jpg,Faster R-CNN,flip,augmented,0.03070990000196616,5
+20250213135210060.jpg,YOLO,original,original,0.011510000000271248,11
+20250213135210060.jpg,Faster R-CNN,original,original,0.02982749999864609,15
+20250213135210060.jpg,YOLO,brightness_1.2,augmented,0.01246270000046934,11
+20250213135210060.jpg,Faster R-CNN,brightness_1.2,augmented,0.029818299997714348,13
+20250213135210060.jpg,YOLO,contrast_0.7,augmented,0.010845099997823127,10
+20250213135210060.jpg,Faster R-CNN,contrast_0.7,augmented,0.030438900001172442,12
+20250213135210060.jpg,YOLO,noise_10,augmented,0.011596200001804391,16
+20250213135210060.jpg,Faster R-CNN,noise_10,augmented,0.03198069999780273,14
+20250213135210060.jpg,YOLO,blur_1,augmented,0.01121689999854425,10
+20250213135210060.jpg,Faster R-CNN,blur_1,augmented,0.030146000000968343,14
+20250213135210060.jpg,YOLO,flip,augmented,0.012135799999668961,11
+20250213135210060.jpg,Faster R-CNN,flip,augmented,0.03186140000252635,18
+Macrothrix hirsuticornis2.jpg,YOLO,original,original,0.01073769999857177,2
+Macrothrix hirsuticornis2.jpg,Faster R-CNN,original,original,0.031393600002047606,8
+Macrothrix hirsuticornis2.jpg,YOLO,brightness_1.2,augmented,0.019613000000390457,2
+Macrothrix hirsuticornis2.jpg,Faster R-CNN,brightness_1.2,augmented,0.03084649999800604,4
+Macrothrix hirsuticornis2.jpg,YOLO,contrast_0.7,augmented,0.011803600002167514,2
+Macrothrix hirsuticornis2.jpg,Faster R-CNN,contrast_0.7,augmented,0.03023389999725623,5
+Macrothrix hirsuticornis2.jpg,YOLO,noise_10,augmented,0.013376400002016453,2
+Macrothrix hirsuticornis2.jpg,Faster R-CNN,noise_10,augmented,0.03182599999854574,9
+Macrothrix hirsuticornis2.jpg,YOLO,blur_1,augmented,0.012131999999837717,2
+Macrothrix hirsuticornis2.jpg,Faster R-CNN,blur_1,augmented,0.02996530000018538,8
+Macrothrix hirsuticornis2.jpg,YOLO,flip,augmented,0.011368599996785633,3
+Macrothrix hirsuticornis2.jpg,Faster R-CNN,flip,augmented,0.03137100000094506,4
+bosmina coregoni.jpg,YOLO,original,original,0.01039409999793861,1
+bosmina coregoni.jpg,Faster R-CNN,original,original,0.037742500000604196,6
+bosmina coregoni.jpg,YOLO,brightness_1.2,augmented,0.012105900001188274,1
+bosmina coregoni.jpg,Faster R-CNN,brightness_1.2,augmented,0.03829469999982393,4
+bosmina coregoni.jpg,YOLO,contrast_0.7,augmented,0.011242699998547323,1
+bosmina coregoni.jpg,Faster R-CNN,contrast_0.7,augmented,0.03690659999847412,4
+bosmina coregoni.jpg,YOLO,noise_10,augmented,0.009851200000412064,1
+bosmina coregoni.jpg,Faster R-CNN,noise_10,augmented,0.037425499998789746,3
+bosmina coregoni.jpg,YOLO,blur_1,augmented,0.019393999999010703,1
+bosmina coregoni.jpg,Faster R-CNN,blur_1,augmented,0.04404000000067754,4
+bosmina coregoni.jpg,YOLO,flip,augmented,0.01277739999932237,1
+bosmina coregoni.jpg,Faster R-CNN,flip,augmented,0.037962800000968855,5
+Bosmina longirostris 2.jpg,YOLO,original,original,0.009823399999731919,1
+Bosmina longirostris 2.jpg,Faster R-CNN,original,original,0.03832449999754317,6
+Bosmina longirostris 2.jpg,YOLO,brightness_1.2,augmented,0.011379399998986628,1
+Bosmina longirostris 2.jpg,Faster R-CNN,brightness_1.2,augmented,0.037256300001899945,9
+Bosmina longirostris 2.jpg,YOLO,contrast_0.7,augmented,0.009637400002247887,0
+Bosmina longirostris 2.jpg,Faster R-CNN,contrast_0.7,augmented,0.042750900000100955,7
+Bosmina longirostris 2.jpg,YOLO,noise_10,augmented,0.011126299999887124,1
+Bosmina longirostris 2.jpg,Faster R-CNN,noise_10,augmented,0.038388400000258116,8
+Bosmina longirostris 2.jpg,YOLO,blur_1,augmented,0.010851800001546508,0
+Bosmina longirostris 2.jpg,Faster R-CNN,blur_1,augmented,0.03879629999937606,4
+Bosmina longirostris 2.jpg,YOLO,flip,augmented,0.009910700002365047,0
+Bosmina longirostris 2.jpg,Faster R-CNN,flip,augmented,0.036793800001760246,7
+Daphnia pulex.jpg,YOLO,original,original,0.012452799997845432,1
+Daphnia pulex.jpg,Faster R-CNN,original,original,0.036990299999160925,12
+Daphnia pulex.jpg,YOLO,brightness_1.2,augmented,0.012030199999571778,1
+Daphnia pulex.jpg,Faster R-CNN,brightness_1.2,augmented,0.03740029999971739,12
+Daphnia pulex.jpg,YOLO,contrast_0.7,augmented,0.01048149999769521,1
+Daphnia pulex.jpg,Faster R-CNN,contrast_0.7,augmented,0.03758949999973993,10
+Daphnia pulex.jpg,YOLO,noise_10,augmented,0.012386700000206474,1
+Daphnia pulex.jpg,Faster R-CNN,noise_10,augmented,0.03697860000102082,11
+Daphnia pulex.jpg,YOLO,blur_1,augmented,0.010584899999230402,1
+Daphnia pulex.jpg,Faster R-CNN,blur_1,augmented,0.04264569999941159,10
+Daphnia pulex.jpg,YOLO,flip,augmented,0.010492900000826921,1
+Daphnia pulex.jpg,Faster R-CNN,flip,augmented,0.038238500001170905,9
+AAKM880(11).jpg,YOLO,original,original,0.03164769999784767,2
+AAKM880(11).jpg,Faster R-CNN,original,original,0.042697699998825556,4
+AAKM880(11).jpg,YOLO,brightness_1.2,augmented,0.011093000000983011,2
+AAKM880(11).jpg,Faster R-CNN,brightness_1.2,augmented,0.03491740000026766,4
+AAKM880(11).jpg,YOLO,contrast_0.7,augmented,0.011017699998774333,1
+AAKM880(11).jpg,Faster R-CNN,contrast_0.7,augmented,0.03369599999859929,2
+AAKM880(11).jpg,YOLO,noise_10,augmented,0.011452800001279684,1
+AAKM880(11).jpg,Faster R-CNN,noise_10,augmented,0.03702319999865722,4
+AAKM880(11).jpg,YOLO,blur_1,augmented,0.011048600001231534,1
+AAKM880(11).jpg,Faster R-CNN,blur_1,augmented,0.033627400000113994,3
+AAKM880(11).jpg,YOLO,flip,augmented,0.010972700001730118,1
+AAKM880(11).jpg,Faster R-CNN,flip,augmented,0.0329074999972363,3

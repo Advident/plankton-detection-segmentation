@@ -1,0 +1,5 @@
+model,group,n_runs,mean_seconds,mean_detections
+Faster R-CNN,augmented,40,0.03424413249986173,7.425
+Faster R-CNN,original,8,0.035359699999389704,8.625
+YOLO,augmented,40,0.011997875000088244,2.9
+YOLO,original,8,0.013507274998573848,2.75
